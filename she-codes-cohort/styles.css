@@ -1,0 +1,23 @@
+
+
+
+html {
+    font-family: 'Raleway', sans-serif;
+    background-color: #fff;
+}
+
+header {
+    text-align: left;
+    font-weight: bold;
+    font-size:  medium;
+    color: palevioletred;
+}
+
+
+
+footer {
+    text-align: center;
+    font-weight: bold;
+    font-size: smaller;
+    color:black;
+}
